@@ -1,2 +1,2 @@
 # Selenium With JavaScript
-Serial lessons for beginer
+Serial lessons for beginner
