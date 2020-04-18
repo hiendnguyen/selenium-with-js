@@ -1,5 +1,5 @@
 # Setup environment
-Basically, you will need below softwares
+Basically, you will need below softwares. This toolset can be installed globally (always avaible) or project-based (only available in project).
 
 ## NodeJS and npm
 To check whether your machine has Node and NPM installed, open a terminal/console window and type:
