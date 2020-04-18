@@ -12,4 +12,4 @@ To install Node, latest [LTS version](https://nodejs.org/en/) may be a good star
 I understand that we may need to run our tests cross-browsers. For now, please just start with Chrome.
 
 ## Code Editor or IDE
-Well, please stick with your favourite one. For me, I use [Visual Studio Code](https://code.visualstudio.com/)
+Well, please stick with your favourite one. For me, I use [Visual Studio Code](https://code.visualstudio.com/) and/or [Sublime Text](https://www.sublimetext.com/)
