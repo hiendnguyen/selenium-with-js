@@ -12,5 +12,9 @@ npm install chai --save
 
 These will install in the node_modules folder and get tracked in our package.json file.
 
-## Create and Run Your First Test
-Check out the code file please.
+## Write Your First Test
+Let’s create a new JS file in our project folder: I’ll create index.js.
+
+```
+
+```
